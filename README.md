@@ -13,3 +13,5 @@ This is an example of the CLI bot which executes the following commands:
 
 currently to execute type python3 main-bot.py in the command line and work...
 
+
+Written with the support of 
